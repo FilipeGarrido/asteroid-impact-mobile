@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0f0243a43c83ec4abc73c10dab8f6e9, type: 3}
+  m_Name: SkinsToSelect
+  m_EditorClassIdentifier: 
+  PlayerSkins:
+  - SkinName: Default
+    PlayerSkin: {fileID: 21300000, guid: e480aaaeb69010b4b8dca4db040eb734, type: 3}
+  - SkinName: Eye Space Ship
+    PlayerSkin: {fileID: 21300000, guid: 1417cdfb61abdc641be660ca57f534b6, type: 3}
+  - SkinName: Pie Fighter
+    PlayerSkin: {fileID: 21300000, guid: bfee9c74fa2437f4599959cf756a6a0f, type: 3}
+  - SkinName: Arl and Kellie's Home
+    PlayerSkin: {fileID: 21300000, guid: 12bca9e7207f025429271cd19072517f, type: 3}
+  - SkinName: Nickey SpaceShip
+    PlayerSkin: {fileID: 21300000, guid: 5577db517a42f2e4ba5b10c3c5d0ecbc, type: 3}
+  - SkinName: OVNI
+    PlayerSkin: {fileID: 21300000, guid: 695fc1fedafbf5f43ab12b68be27f233, type: 3}
+  - SkinName: Toothless
+    PlayerSkin: {fileID: 21300000, guid: 33abf317e60afc246b165bff920ec15a, type: 3}
+  - SkinName: Bilenum Falcon
+    PlayerSkin: {fileID: 21300000, guid: 891fa380ba35b8944bc5f95ce6c15595, type: 3}
+  - SkinName: Interprise MoonShip
+    PlayerSkin: {fileID: 21300000, guid: 85e2c7529f9b1aa46bcc83e75612d87d, type: 3}
+  - SkinName: Stupnik
+    PlayerSkin: {fileID: 21300000, guid: d54bd0f882a241946958168f6a0832a2, type: 3}
